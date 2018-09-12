@@ -25,7 +25,7 @@ SECRET_KEY = '%c95@or!5z-x3nopkrfw7f2a-s!&9wtf6y!hxgpf_v6--be^sm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'stotriss.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'stotri.pythonanywhere.com']
 
 
 # Application definition
